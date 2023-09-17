@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954473353975",
+    "project_id": "skybatch-f0755",
+    "storage_bucket": "skybatch-f0755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954473353975:android:11f07f886b86a9557ef9f2",
+        "android_client_info": {
+          "package_name": "com.example.skybatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-xMS2L5KOcX0Gg-uLFemnjIcDP7A-UbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
